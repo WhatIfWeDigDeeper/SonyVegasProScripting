@@ -1,5 +1,5 @@
 ﻿/**
- * Usage: add folder "
+ * Usage: see https://github.com/WhatIfWeDigDeeper/SonyVegasProScripting
  * 
  * Modified from Batch Render Sample script that performs batch renders with GUI for selecting
  * render templates.
