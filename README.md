@@ -103,7 +103,7 @@ to
 
 By default
 
- - If the file exists in the directory, it will overwrite it!
+ - If the rendered media file already exists in the directory, it will overwrite it!
  - The script will recreate the VegasRendererList.txt every time.
 
 These and other defaults can be changed by editing the top of the MyRenderer.cs script.
@@ -120,4 +120,4 @@ Create a toolbar button to enable single click batch render:
 
 MIT
 
-I created this for my own use and decided to share with the community.  Please read instructions carefully and backup your project until you are comfortable with the script.  Please use at your own risk.
+I created this for my own use and decided to share it with the community.  Please read instructions carefully and backup your project until you are comfortable with the script.  Please use at your own risk.
