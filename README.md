@@ -91,7 +91,7 @@ String _defaultInputFileName = "MyRendererInput.txt";
 to
 
 ```C#
-    String _defaultInputFileName = "MyBluRayRendererInput.txt";
+String _defaultInputFileName = "MyBluRayRendererInput.txt";
 ```
 
  - Next create a matching input file, such as MyBluRayRendererInput.txt in the My Documents/SonyVegasRender folder.
